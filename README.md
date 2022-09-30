@@ -32,3 +32,8 @@
 
 
 11.run "dvc repro" for running all the stages in pipeline
+
+
+
+![image](https://user-images.githubusercontent.com/96571687/193210434-35fda310-0bc3-47bb-a778-18de9e76332c.png)
+
