@@ -35,6 +35,6 @@
 
 
 
-<!-- ![]("./docs/images/Data Ingestion@2x (1).png") -->
+![img](https://raw.githubusercontent.com/DeeptiMish/deepCNNclassifier/main/docs/images/Data%20Ingestion%402x%20(1).png)
 
 
